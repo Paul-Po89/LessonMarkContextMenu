@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LessonMarkContextMenu</string>
+    <string name="context_menu_title_change_color">Color change</string>
+    <string name="context_menu_title_size_change">Size change</string>
+    <string name="lesson_mark">Lesson mark:</string>
+    <string name="hint_your_mark_here">your mark here</string>
+    <string name="item_color_quality">Color quality</string>
+    <string name="item_exit">Exit</string>
+    <string name="random_background_color">/random background color/</string>
+    <string name="randomize_it">RANDOMIZE IT!</string>
+</resources>
